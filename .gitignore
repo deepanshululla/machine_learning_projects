@@ -1,0 +1,8 @@
+
+*.cpython*
+
+*__pycache__
+
+*.idea/
+
+*.zip
