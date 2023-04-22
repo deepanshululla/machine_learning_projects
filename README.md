@@ -9,11 +9,14 @@ The aim of this repo is to create a ML portfolio of projects for learning and un
 ## Projects on Linear Regression
 
 ### Project 1: Icecream Revenue Prediction
+
 * Created a model that could predict the daily revenue in dollars based on the outside air temperature (degC) using Simple linear regression.
 
 [link](./SimpleLinearRegression/IceCreamRevenuePrediction)
 
 ### Project 2: Fuel economy Prediction
+
+
 * Developed a model to predict the impact of increasing the vehicle horsepower (HP) on fuel economy (Mileage Per Gallon (MPG)) using Simple linear regression.
 
 [link](./SimpleLinearRegression/FuelEconomyPrediction)
@@ -71,7 +74,7 @@ The aim of this repo is to create a ML portfolio of projects for learning and un
 
 [link](./naive_bayes/SpamOrNot/)
 
-#### Project 12: Credit card fraud detection
+### Project 12: Credit card fraud detection
 
 * Used Feature engineeering techniques of undersampling and oversampling (using SMOTE) to handle unbalanced dataset.
 * Modelled and Compqred performance across Different heuristics such as Naive Bayes(Gaussian NB), Logistic Regression, Neural networks and Random Forests.
@@ -81,12 +84,23 @@ The aim of this repo is to create a ML portfolio of projects for learning and un
 
 [link](./naive_bayes/creditcard_fraud_detection)
 
-### Clustering
+## Clustering
 
-#### Project 13: Segmenting Mall customers
+### Project 13: Segmenting Mall customers
 
+* Apply K-means clustering with different values of K and evaluates the results using the Elbow method, Silhouette score, and visualization
+
+### Project 14: Agricultural Crop Optimization
+
+* Apply K-means clustering with different values of K and evaluates the results using the Elbow method, Silhouette score, and visualization
+* Modelled and Compqred performance across Different heuristics such as Naive Bayes(Gaussian NB), Logistic Regression, Neural networks and Random Forests.
+* Applied Model tuning using GridSearch CV for optimizing and tuning different models.
 
 [link](./clustering/SegmentationWithMallCustomers)
+
+
+## Notes
+
 
 ### Setup tensorflow and ML environment
 
